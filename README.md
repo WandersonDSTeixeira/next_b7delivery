@@ -1,14 +1,14 @@
 Projeto de site multitenancy de delivery sendo realizado durante as aulas do curso de Next da B7Web (em construção).
 Frontend 95% finalizado. Backend ainda falta ser criado.
 
-## Getting Started
+—> Instalação de dependências:
 
-First, run the development server:
+npm install
 
-```bash
+—> Para rodar o projeto:
+
 npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+—> URL para abrir no navegador:
+
+http://localhost:3000/b7burger
